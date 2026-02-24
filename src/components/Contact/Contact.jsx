@@ -72,9 +72,7 @@ const Contact = () => {
                             </div>
                         </div>
 
-                        <a href={`mailto:${profile.contact.email}`} className="email-button">
-                            Say Hello <Send size={18} />
-                        </a>
+
                     </div>
 
                     <div className="contact-form-visual">
