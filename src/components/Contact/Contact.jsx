@@ -16,13 +16,18 @@ const Contact = () => {
         setIsSubmitting(true);
         setSubmitStatus(null);
 
+        // Use environment variables with fallback to window object for GitHub Pages
+        const serviceId = import.meta.env.VITE_EMAILJS_SERVICE_ID || window.VITE_EMAILJS_SERVICE_ID;
+        const templateId = import.meta.env.VITE_EMAILJS_TEMPLATE_ID || window.VITE_EMAILJS_TEMPLATE_ID;
+        const publicKey = import.meta.env.VITE_EMAILJS_PUBLIC_KEY || window.VITE_EMAILJS_PUBLIC_KEY;
+
         emailjs
             .sendForm(
-                import.meta.env.VITE_EMAILJS_SERVICE_ID,
-                import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
+                serviceId,
+                templateId,
                 form.current,
                 {
-                    publicKey: import.meta.env.VITE_EMAILJS_PUBLIC_KEY,
+                    publicKey: publicKey,
                 }
             )
             .then(
