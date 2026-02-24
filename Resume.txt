@@ -1,0 +1,63 @@
+Resume
+
+Experience section:
+
+1: State attorney's office | Full stack software developer  |     Instructor and team lead | Morelia Mich. 2020-2023
+Description: My main responsibilities included teach to the new members and teach them in the best practices as well as raise requirements, planning and estimating delivery times. as developer my activities  were database analysis and design, user interface design, and the planning and development of comprehensive systems. I also focused on innovating and providing support for existing systems. Over the course of my work, I contributed to the development of more than 10 distinct systems. Notably, my team and I earned second place at the national competition organized by the National Institute of Transparency, Access to Information, and Data Protection (INAI).
+
+
+2: Alkemy & Grupo Ontwice - Hyundai Motors | Full stack web developer | CD. MX.  2023 - 2024
+Description: Support and integration of a existing website for Hyundai. Make updates of content inside of the site. In my instance I was charging of create a price estimator for the purchase of vehicles with different banks.
+
+3: One Project | Backend development lead| Remote 2023-2024
+Description: I was in charge of the backend team where I had meetings with clients and distributed tasks. As developer I was charge to follow the best practices for the framework of Django, creating unit test, validating the develops of the members of the team and doing code review. We use postgreSQL and pyton to create the full API of the app, incorporating multiple functionalities as cron jobs, websockets, CRUDS and emails notifications.
+
+4: Territorium | Fullstack software developer | Remote 2023-Present
+Description: In my current position I have develop multiple systems as LMS using laravel and pure PHP , JS, vue, React and React native for issuing credentials and administering exams.  Also I have develop APIs in python with FastAPI, serverless services with python and microservices . I have experience with Azure Cloud services and AWS. In the last year I have worked on the implementation of AI agents and the implementation of LLMto automate processes
+
+Certifications Section:
+
+Building Generative AI-Powered Applications with Python by IBM
+Generative AI: Foundation Models and Platforms By IBM
+ChatGPT Prompt Engineering for Developers  By deeplearning.IA
+Django Web Framework By Meta
+Programming in Python By Meta
+Introduction to Databases for Back-End Development By Meta
+
+Skills Section:
+
+Languages: PHP, Python, JavaScript, TypeScript, SQL, HTML, CSS
+Frameworks: Laravel, Django, Vue.js, React, React Native, FastAPI
+Databases: MySQL, PostgreSQL, MongoDB
+Tools: Git, Docker, Azure Cloud, AWS, Jenkins, Jira, Redis, Celery, RabbitMQ
+Methodologies: Agile, Scrum, Test-Driven Development, Clean Code
+
+Education Section:
+Bachelor of Science in Computer Science - Technological University of Morelia | 2015-2019
+
+About me section:
+Name: David Salvador Martinez Santoyo
+Introduction: I am a software engineer with 5 years of experience in designing, planning, developing, and deploying web applications leading teams . I am known for being consistent and disciplined in my work, continuously learning new skills to deliver higher quality and improve delivery times.
+Position: Fullstack software developer
+
+Social media section:
+dasalvasuper@gmail.com
+(52) 4433318932
+Morelia Michoacán
+https://github.com/DavidHendrixSantana
+
+
+[
+  {
+    "description": "Architecting and scaling enterprise-level LMS platforms utilizing Laravel, PHP, and a modern frontend stack (Vue.js, React, React Native) for secure credentialing and exam administration. Orchestrating high-performance API design with Python (FastAPI) and deploying resilient serverless microservices on Azure and AWS. Spearheading AI initiatives by integrating LLMs and Autonomous Agents to automate complex workflows and drive system-wide intelligence."
+  },
+  {
+    "description": "Led a high-performing backend engineering team, overseeing sprint planning, task delegation, and cross-functional client communication. Established rigorous engineering standards through automated unit testing and comprehensive code reviews for Django-based ecosystems. Engineered a scalable API architecture using Python and PostgreSQL, featuring real-time data synchronization via WebSockets, optimized cron jobs, and automated notification systems."
+  },
+  {
+    "description": "Optimized Hyundai's digital infrastructure by providing high-availability support and seamless content integration. Conceptualized and deployed a dynamic, multi-bank vehicle financing estimator that streamlined the user purchasing journey. This tool bridged the gap between customer intent and financial approval, significantly increasing digital engagement for the brand."
+  },
+  {
+    "description": "Directed the end-to-end lifecycle of 10+ comprehensive systems, from requirements gathering and database design to UI/UX execution. Mentored junior developers in adopting industry-standard best practices and modernizing legacy architectures. Notable Achievement: Awarded 2nd Place in a National Competition hosted by the National Institute for Transparency (INAI) for developing innovative data protection and accessibility solutions."
+  }
+]
